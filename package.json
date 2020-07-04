@@ -1,0 +1,11 @@
+{
+	"name": "CursoNode",
+	"description": "Este es el proyecto 1 de marco en node",
+	"version": "0.0.1",
+	"author": "Marco",
+	"dependencies": {
+		"express": "^4.17.1",
+		"swig": "^1.4.2"
+	},
+	"devDependencies": {}
+}
